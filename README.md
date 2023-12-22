@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drakshayani
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning JavaScript, DSA with java
-- 💞️ I’m looking to collaborate on IT industry
+- 💞️ I’m looking to collaborate with IT industry
 - 📫 How to reach me ...www.linkedin.com/in/n-drakshayani-0760b7248
 
 <!---
